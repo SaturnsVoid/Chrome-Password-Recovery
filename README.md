@@ -6,6 +6,10 @@ DOES NOT EXPORT OUT OF FILE, LISTS ALL LOGINS IN CONSOLE ONLY.
 # Features
 * Gives URL, USERNAME and Decrypted PASSWORD
 
+# Compiling
+  Import needed packages. (gcc is needed!)
+  go build Chrome Password Recovery.go
+
 # Packages Used
 * github.com/mattn/go-sqlite3
 
